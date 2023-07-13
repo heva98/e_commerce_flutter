@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "96050577155",
+    "project_id": "vyombo-2839d",
+    "storage_bucket": "vyombo-2839d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96050577155:android:bf6c0fbd3f8ecd0b34b336",
+        "android_client_info": {
+          "package_name": "com.heva.vyombo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96050577155-8su30hf6pb1vjpipqruecb61vfiul6pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heva.vyombo",
+            "certificate_hash": "43554668629fff31642a37e511b728af66876b3c"
+          }
+        },
+        {
+          "client_id": "96050577155-3ml04ov5fg9aetoo2e8dgp6hd7o165lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdBcGwJASNBJXKEcsDOetQa5Ba9SJRVNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96050577155-3ml04ov5fg9aetoo2e8dgp6hd7o165lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
